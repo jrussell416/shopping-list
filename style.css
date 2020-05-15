@@ -6,3 +6,8 @@ body {
     border: 2px black solid
     
 }
+
+/* strikethrough of list items */
+.done {
+    text-decoration: line-through;
+}
