@@ -3,11 +3,7 @@ body {
 }
 #to-do {
     display: inline-block;
-    border: 2px black solid
     
 }
 
-/* strikethrough of list items */
-.done {
-    text-decoration: line-through;
-}
+ 
